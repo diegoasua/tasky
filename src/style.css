@@ -5,7 +5,6 @@
 .custom-button {
     background-color: rgba(24, 24, 26, 0.829);
     display: inline-block;
-    padding: 0.3em 1.2em;
     border: 0.16em solid rgba(255, 255, 255, 0);
     padding: 1.5rem 2rem;
     border-radius: 2em;
@@ -48,4 +47,15 @@ body {
 
 .custom-input:hover {
     border-color: rgb(233, 123, 123);
+}
+
+input[type=checkbox] {
+    width: 0px;
+    margin-right: 25px;
+    transform: scale(4);
+    margin-bottom: 1rem;
+}
+
+.counter {
+    color: rgb(52, 24, 179);
 }

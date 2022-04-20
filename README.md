@@ -1,3 +1,3 @@
 # Tasky
 
-A very simple ToDo list app built in React.
+A very simple ToDo app built with React.
